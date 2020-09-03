@@ -1,0 +1,10 @@
+name: SmoothColorfulArmor
+version: 2.0
+main: afterglow\sca
+api: 3.2.0
+author: afterglow.howlingmoon
+
+commands:
+  sca:
+    default: op
+    description: ColorfulArmor
